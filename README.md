@@ -12,6 +12,7 @@ You need to be able to go through a maze in addition to collecting 3 cards along
 
 
 ![logo_ResgateNatalinoEN](https://github.com/MatheusLastoria/ResgateNatalinoEN/blob/main/ResgateNatalino_creditos_EN.png)
+<br><br>
 ProjetoNatalino.exe is a file generated from the GameMeker engine, just run it and follow the step-by-step instructions for installation.
 <br><br>
 https://drive.google.com/file/d/13er_Six2mukOlNr5Ya5ZX6PFJOZR0hSw/view?usp=drive_link
